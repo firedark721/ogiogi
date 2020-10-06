@@ -68,3 +68,56 @@ body {
   margin-top: 142px;
 
 }
+.parte-4{
+  height: 815px;
+  background: #979797;
+  position: relative;
+}
+.logo-2{
+  margin-top: 143px;
+  margin-bottom: 81px;
+}
+.icon{
+ height: 180px;
+  width: 355px;
+  float: left;
+}
+.icon-2{
+  height: 180px;
+  width: 355px;
+  float: left;
+  margin-left: 35px;
+  position: relative;
+}
+.icon-3{
+  height: 758px;
+  width: 365px;
+  float: left;
+  position: relative;
+  top: 80;
+}
+.icon-4{
+  height: 758px;
+  width: 365px;
+  float: left;
+  margin-left: 35px;
+  position: relative;
+  top: 0;
+}
+#icon{
+  margin-bottom: 21px;
+}
+#icon2{
+  margin-bottom: 21px;
+}
+#title{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #141720;
+  margin-bottom: 15px;
+}
+#text{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: #5D5F65;
+}
