@@ -143,6 +143,8 @@ body {
   right: 0;
 }
 #pin{
+  height: 80px;
+  width: 262px;
   position: absolute;
   top: 304px;
   left: 267px;
@@ -150,4 +152,6 @@ body {
 }
 .img-4{
   margin-top: 143.5px;
+  height: 407px;
+  width: 502px;
 }
